@@ -1,5 +1,5 @@
 # saas-ai-product-landscape-analysis
-Google Sheets analysis of Saas and AI product listings, industry verticals, and revinue models with charts including case study.
+Google Sheets analysis of Saas and AI product listings, industry verticals, and revenue models with charts including case study.
 Project overview
 Business questions
 Tools and skills
